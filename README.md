@@ -20,7 +20,7 @@ Créer une page web responsive et mobile first sur laquelle l'utilisateur peut e
 
 Maquette papier :
 
-<img src=C:/Users/lesta/OneDrive/Documents/GitHub/ageintospace/assets/img/maquette.jpg>
+<img src=GitHub/ageintospace/assets/img/maquette.jpg>
 
 Pour suivre l'évolution du projet ou voir les différentes étapes, vous pouvez consulter le trello suivant :
 
