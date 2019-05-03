@@ -18,3 +18,6 @@ Créer une page web responsive et mobile first sur laquelle l'utilisateur peut e
 
 </ul>  
 
+Pour suivre l'évolution du projet ou voir les différentes étapes, vous pouvez consulter le trello suivant :
+
+https://trello.com/b/8m3wBSap/lage-%C3%A0-travers-lespace
